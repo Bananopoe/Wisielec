@@ -5,7 +5,7 @@
 #include <conio.h>
 using namespace std;
 int opcja,g=0,dlu,d;
-string z, x[]={"spadochron","auto","ahmed","pies","kot","golf","zegar","poduszka","tratwa","kura","wrona"};
+string z, x[]={"spadochron","GitHub","ahmed","pies","kot","golf","zegar","poduszka","tratwa","kura","wrona"};
 char y,h,c[20];
 
 int main()
